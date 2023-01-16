@@ -21,7 +21,8 @@
   <img src="https://media.giphy.com/media/DnMMGxEvniha7CvASq/giphy.gif" width="400" height="300"/>
 </div>
 ---
-<div dir="ltr> 
+
+<div dir='rtl'>
 ### :man_technologist: About Me:
   Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023.<br>
  
@@ -32,3 +33,4 @@
   - Passions include :guitar: :mountain_snow: :boxing_glove: :ping_pong: :martial_arts_uniform:
   
   - Reach out to me on: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas99/)
+</div>
