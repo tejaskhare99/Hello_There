@@ -16,13 +16,12 @@
   Helloooo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
   
 <div align="center">
   <img src="https://media.giphy.com/media/DnMMGxEvniha7CvASq/giphy.gif" width="400" height="300"/>
 </div>
  
- 
+<div align="left"> 
 ### :man_technologist: About Me:
   
   Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023.<br>
