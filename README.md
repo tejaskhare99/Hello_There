@@ -1,4 +1,4 @@
-<div id="header">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 <div id="header">
   <a href="https://www.linkedin.com/in/tejas99/">
@@ -16,13 +16,12 @@
   Helloooo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+---
   
 <div align="center">
   <img src="https://media.giphy.com/media/DnMMGxEvniha7CvASq/giphy.gif" width="400" height="300"/>
 </div>
-  
----
-
+ 
  
 ### :man_technologist: About Me:
   
