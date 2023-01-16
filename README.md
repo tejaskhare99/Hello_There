@@ -28,7 +28,7 @@
  
   - :zap: Broad experience in Machine Learning Applications like Computer Vision, NLP, and Time Series Forecasting
   
-  - Love to explore new technologies :running_man:
+  - :running_man: Love to explore new technologies 
   
   - Passions include :guitar: :mountain_snow: :boxing_glove: :ping_pong: :martial_arts_uniform:
   
