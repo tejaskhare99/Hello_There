@@ -22,7 +22,7 @@
 </div>
  
 <div align="left"> 
-### :man_technologist: About Me:
+<h2> :man_technologist: About Me:</h2>
   
   Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023.<br>
  
