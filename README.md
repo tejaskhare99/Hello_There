@@ -20,11 +20,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/DnMMGxEvniha7CvASq/giphy.gif" width="400" height="300"/>
 </div>
+  
 ---
 
-
-<div dir='ltr'>
+ 
 ### :man_technologist: About Me:
+  
   Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023.<br>
  
   - :zap: Broad experience in Machine Learning Applications like Computer Vision, NLP, and Time Series Forecasting
