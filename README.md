@@ -8,3 +8,7 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
+
+<div id="badges" align="center">
+     <img src="https://komarev.com/ghpvc/?username=tejaskhare99&style=flat-square&color=blue" alt=""/>
+</div>
