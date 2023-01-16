@@ -21,9 +21,14 @@
   <img src="https://media.giphy.com/media/DnMMGxEvniha7CvASq/giphy.gif" width="400" height="300"/>
 </div>
 ---
+ 
 ### :man_technologist: About Me:
-  Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023. 
+  Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023.<br>
+ 
   - :zap: Broad experience in Machine Learning Applications like Computer Vision, NLP, and Time Series Forecasting
+  
   - Love to explore new technologies :running_man:
+  
   - Passions include :guitar: :mountain_snow: :boxing_glove: :ping_pong: :martial_arts_uniform:
+  
   - Reach out to me on [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejas99/)
