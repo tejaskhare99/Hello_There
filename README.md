@@ -26,4 +26,4 @@
   - :zap: Broad experience in Machine Learning Applications like Computer Vision, NLP, and Time Series Forecasting
   - Love to explore new technologies :running_man:
   - Passions include :guitar: :mountain_snow: :boxing_glove: :ping_pong: :martial_arts_uniform:
-  - Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejas99/)
+  - Reach out to me on [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejas99/)
