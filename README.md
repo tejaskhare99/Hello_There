@@ -22,7 +22,8 @@
 </div>
 ---
 
-<div dir='rtl'>
+
+<div dir='ltr'>
 ### :man_technologist: About Me:
   Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023.<br>
  
