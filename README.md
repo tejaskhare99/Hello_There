@@ -31,4 +31,4 @@
   
   - Passions include :guitar: :mountain_snow: :boxing_glove: :ping_pong: :martial_arts_uniform:
   
-  - Reach out to me on [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejas99/)
+  - Reach out to me on: [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tejas99/)
