@@ -24,7 +24,7 @@
 <div align="left"> 
 <h2> :man_technologist: About Me:</h2>
   
-  Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023.<br>
+  Hello, I am a Data Science and Machine Learning enthusiast and I will be graduating from the University of Ottawa in April 2023 with a Masters in Computer Science Concentration in Applied AI.<br>
  
   - :zap: Broad experience in Machine Learning Applications like Computer Vision, NLP, and Time Series Forecasting
   
