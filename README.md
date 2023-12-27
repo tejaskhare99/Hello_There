@@ -24,7 +24,7 @@
 <div align="left"> 
 <h2> :man_technologist: About Me:</h2>
   
-  Hello, I am a Data Science and Machine Learning enthusiast with a Masters in Computer Science Applied AI.<br>
+  Hello, I am a Data Scientist working in Healthcare research. I am invloved in researching and devloping non invasive Blood Glusoce estimation approaches using Machine Learning I also have a Masters in Computer Science from the University of Ottawa, where my concentration was Applied Artificial Intelligence.<br>
  
   - :zap: Broad experience in Machine Learning Applications like Computer Vision, NLP, and Time Series Forecasting
   
